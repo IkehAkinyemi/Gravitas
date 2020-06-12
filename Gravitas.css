@@ -1,0 +1,342 @@
+  html, body { 
+    background: url(images/Dock.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+  }
+
+  body {
+      margin: 0px;
+      font-family: candara;
+  }
+
+  div > .first-child {
+      width: ;
+      height: 40px;
+      background-color: #edabc7;
+      margin-left" 0px;
+      margin-right" 0px;
+  }
+
+  div > .second-child {
+      width: ;
+      height: 100px;
+      background: rgb(140,29,166);
+      background: linear-gradient(90deg, rgba(140,29,166,1) 0%, rgba(161,16,190,1) 29%, rgba(242,113,163,1) 100%);
+      display: flex;
+     align-items: center;
+  }
+
+  .third-child {
+      width: ;
+      height: 100vh;
+      background-color: #7fffd44D;
+  }
+
+  .logo {
+      font-size: 2.6rem;
+      font-weight: bolder;
+      color: whitesmoke;
+      
+  }
+
+  .container1  {
+      margin-left: 23%;
+  }
+
+  .second-second-child {
+      margin-top: -1.29rem;
+      margin-left: 40px;
+  }
+
+  .charity {
+      margin-left: auto;
+      margin-right: 23%;
+  }
+
+  .container2 {
+      width: ;
+      height: 100vh;
+      background-color: white;
+      margin-left: 15%;
+      margin-right: 15%;
+  }
+
+  .container201 {
+      display: -webkit-flex;
+      flex-direction: row;
+      background-color: rgb(219, 215, 215);
+      color: rgb(36, 34, 34);
+      font-size: 0.7rem;
+      align-items: center;
+  }
+
+.sleep {
+    margin-left: auto;
+}
+
+.tired {
+      margin-left: auto;
+}
+
+  img {
+      width: 20px;
+      height: 20px;
+      margin-left: 0.9rem;
+  }
+
+  [alt="google+"] {
+      margin-bottom: 6px;
+  }
+
+  [alt="whatsapp"] {
+      margin-top: 2px;
+      margin-left: auto;
+  }
+
+  [alt="pinterest"] {
+      margin-right: auto;
+  }
+  [alt="Gravitas-logo"] {
+      width: 35px;
+      height: 35px;
+      margin-left: ;
+      border-radius: 50%;
+  }
+
+  .container202 {
+      width: ;
+      height: 5rem;
+      align-items: center;
+      color: white;
+      display: flex;
+      background-color: black;
+  }
+
+  .true {
+      margin-left: uto;
+  }
+
+  .family {
+      margin-left: 0.4rem;
+      margin-top: -0.3rem;
+  }
+
+  .false {
+      display: flex;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  a:hover {
+      font-weight: bolder;
+      font-size: larger;
+      color: rgb(235, 198, 204);
+  }
+
+  .section {
+      color: white;
+      text-decoration: none;
+      margin-left: 1.2rem;
+  }
+
+button {
+    margin-right: auto;
+    border-radius: 10px;
+    background-color: rgb(228, 40, 72);
+    border: 2px solid transparent;
+    padding: 2px 10px;
+    color: white;
+}
+
+button:hover {
+    border: 1.5px solid transparent;
+    font-size: 14px;
+}
+
+.container203 {
+    width: ;
+    height: 14rem;
+    background: url(./Images/volunteer-resize.jpg) no-repeat center center;
+    background-size: cover; 
+    
+}
+
+.appear {
+    font-weight: bolder;
+    color: rgb(10, 10, 10);
+    display: flex;
+    flex-direction: column;
+    width: inherit;
+    height: inherit;
+    background-color: #e7deec99;
+    align-items: center;
+    justify-content: center;
+}
+
+.option {
+    width: 40rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.yemi {
+    align-self: center;
+    margin-top: -50px;
+    margin-bottom: 30px;
+    text-decoration: underline;
+}
+
+.yyemi {
+    align-self: center;
+}
+
+.yeemi {
+    align-self: center;
+}
+
+.yemmi {
+    align-self: center;
+}
+
+.yemii {
+    align-self: center;
+}
+
+.join {
+    margin-left: auto;
+    margin-top: 1rem;
+    margin-bottom: -3rem;
+    align-self: center;
+}
+
+
+.container204 {
+    display: flex;
+    width: ;
+    height: ;
+    flex-direction: row;
+}
+
+.sister {
+    width: 70%;
+    height: 14rem;
+    display: flex;
+    padding-top: 2rem;
+    flex-direction: column;
+    justify-content c:enter;
+    background-color: #e0e0e0;
+}
+
+.sister-inlaw {
+    align-self: center;
+    margin-bottom: 0.6rem;
+    text-decoration: underline;
+}
+
+.sisterly {
+    align-self: center;
+}
+
+.sister > div {
+    line-height: 1.3rem;
+}
+
+.brother {
+    background-color: black;
+    width: 50%;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sect {
+    color: black;
+}
+
+.sect:hover {
+    font-size: small;
+    color: blueviolet;
+}
+
+.position {
+    margin-top: 1rem;
+    margin-bottom: -2.9rem;
+}
+
+.brother-in-law {
+    width: 50px;
+    height: 50px;
+    background-color: beige;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+.elder-brother {
+    width: 50px;
+    height: 50px;
+    background-color: beige;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+.brotherly {
+    width: 50px;
+    height: 50px;
+    background-color: beige;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+.brothers {
+    width: 50px;
+    height: 50px;
+    background-color: beige;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+.drip {
+    font-size: larger;
+    color: white;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+.news {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #7fffd42b;
+    
+}
+
+.sub {
+    margin-bottom: 0.2rem;
+}
+
+input {
+    border: 1px solid black;
+    margin-left: 5px;
+    background-color: #e0e0ee;
+    border-radius: 10px;
+    padding-left: 5px;
+}
